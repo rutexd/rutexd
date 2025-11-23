@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=rutexd&color=55acb7&style=for-the-badge&logo=Github&text=Visitors)
 <!--
 **rutexd/rutexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
